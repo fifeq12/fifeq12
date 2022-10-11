@@ -5,7 +5,7 @@
 	- [Backend](https://github.com/fifeq12/healthy-tasty-backend-master)
 	- [Frontend](https://github.com/fifeq12/healthy-tasty-frontend-master)
 
-- 🔭 Other projects (made long time ago before first work)
+- 🔭 Other projects (made long time ago, before first work)
     - [Clothes shop](https://github.com/fifeq12/Larram-master)
     - [Another site with cooking recipes (unfinished)](https://github.com/fifeq12/RecipeBook)
     - Simple javascript projects
